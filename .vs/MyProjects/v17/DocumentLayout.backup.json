@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Marisha\\Coding\\MyProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90800F83-36A9-42F5-AA40-EFB5561E53F1}|GuessGame\\GuessGame.csproj|d:\\marisha\\coding\\myprojects\\guessgame\\logic\\guessgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90800F83-36A9-42F5-AA40-EFB5561E53F1}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\logic\\guessgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B055BB-E67A-4970-B8EA-C611C0E6533E}|MyProjects\\CalculatorApp.csproj|d:\\marisha\\coding\\myprojects\\myprojects\\logic\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B055BB-E67A-4970-B8EA-C611C0E6533E}|MyProjects\\CalculatorApp.csproj|solutionrelative:myprojects\\logic\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorLogic.cs",
+              "DocumentMoniker": "D:\\Marisha\\Coding\\MyProjects\\MyProjects\\Logic\\CalculatorLogic.cs",
+              "RelativeDocumentMoniker": "MyProjects\\Logic\\CalculatorLogic.cs",
+              "ToolTip": "D:\\Marisha\\Coding\\MyProjects\\MyProjects\\Logic\\CalculatorLogic.cs",
+              "RelativeToolTip": "MyProjects\\Logic\\CalculatorLogic.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAG4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:21:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuessGameLogic.cs",
+              "DocumentMoniker": "D:\\Marisha\\Coding\\MyProjects\\GuessGame\\Logic\\GuessGameLogic.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Logic\\GuessGameLogic.cs",
+              "ToolTip": "D:\\Marisha\\Coding\\MyProjects\\GuessGame\\Logic\\GuessGameLogic.cs",
+              "RelativeToolTip": "GuessGame\\Logic\\GuessGameLogic.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:16:43.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
