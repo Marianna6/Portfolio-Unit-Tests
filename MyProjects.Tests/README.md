@@ -5,7 +5,9 @@ I originally built these applications after completing a foundational C# course 
 
 During refactoring, I focused on improving the structure of both applications.
 The goal was to separate business logic from console input/output, making the code clean, reusable, and fully testable with xUnit.
+
 This suite contains 47 isolated unit tests that verify the main logic of both programs.
+
 ---
 
 ## Architecture
