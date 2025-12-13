@@ -5,7 +5,6 @@ I originally built these applications after completing a foundational C# course 
 
 During refactoring, I focused on improving the structure of both applications.
 The goal was to separate business logic from console input/output, making the code clean, reusable, and fully testable with xUnit.
-
 This suite contains 47 isolated unit tests that verify the main logic of both programs.
 ---
 
@@ -13,9 +12,9 @@ This suite contains 47 isolated unit tests that verify the main logic of both pr
 
 The refactored architecture separates each application into distinct layers:
 
-* **`Logic` Layer:** Contains only the business logic (e.g., math operations, game state management). It is completely isolated from the Console.
-* **`UI` Layer:** Responsible only for console I/O (`Console.WriteLine`/`Console.ReadLine`).
-* **`Tests`:** This project tests the `Logic` layer directly.
+* **Logic Layer:** Contains only the business logic (e.g., math operations, game state management). It is completely isolated from the Console.
+* **UI Layer:** Responsible only for console I/O (`Console.WriteLine`/`Console.ReadLine`).
+* **Tests:** This project tests the Logic layer directly.
 
 ---
 
