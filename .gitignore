@@ -1,8 +1,6 @@
-# "Вышибала" 💂 для .NET (C#)
-
-# "Мусор" 🗑️ Visual Studio (Папка .vs)
+# Visual Studio
 .vs/
 
-# "Мусор" 🗑️ Сборки (Папки bin/obj)
+# Build results
 [Bb]in/
 [Oo]bj/
